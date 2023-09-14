@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "name": "0server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Yuriy Chamkoriyski",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
