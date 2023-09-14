@@ -1,0 +1,1 @@
+Appending tet to a file or creating it if not exists!
