@@ -1,0 +1,2 @@
+2023-09-14	19:59:34.34	21bdc353-f8d1-415d-b2eb-f4b1aaff7b2a	Log event emitted
+2023-09-14	20:01:07.07	7924511a-64b6-4dbd-85a3-67392016827b	Log event emitted
