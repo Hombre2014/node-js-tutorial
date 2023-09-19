@@ -41,7 +41,7 @@ const three = (req, res) => {
   res.send('Finished!');
 }
 
-app.get('/chain(.html)?', one, two, three);
+app.get('/chain(.html)?', [one, two, three]);
 
 app.get('/*', (req, res) => {
   res.status(404).sendFile(path.join(__dirname, 'views', '404.html'));
