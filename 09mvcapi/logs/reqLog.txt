@@ -1,0 +1,52 @@
+2023-09-14	23:31:48.48	0a0bb823-213b-4e20-90eb-eda1ecb1f038	/new-page	GET
+2023-09-14	23:31:48.48	fd3e7b6f-64a5-43af-96e8-1cbacc735489	/css/style.css	GET
+2023-09-14	23:31:48.48	1825799c-4223-4c33-a5f8-218cc195f24b	/img/img1.jpg	GET
+2023-09-14	23:31:48.48	ff931b07-fa9f-49bd-808f-0762534b5dfe	/favicon.ico	GET
+2023-09-14	23:34:37.37	562ac93e-9334-4717-abd6-5dfd31db137b	/new-page	GET
+2023-09-14	23:34:37.37	fe19e9fe-b352-440f-9064-5098d5a50119	/css/style.css	GET
+2023-09-14	23:34:37.37	d6f0ee50-2369-4d5e-95c7-4bf1fd71b725	/img/img1.jpg	GET
+2023-09-14	23:38:40.40	d01ac77f-c99b-4a2b-90de-2fccd1b2f78e	/new-page	GET
+2023-09-14	23:39:40.40	272eff83-7f6d-4776-ac51-e201fa124816	/new-page	GET
+2023-09-14	23:39:40.40	7c40ef05-6700-4bca-9319-4543cb51d115	/css/style.css	GET
+2023-09-14	23:39:40.40	24a13374-2c06-4112-93c7-fa3dbbec900b	/img/img1.jpg	GET
+2023-09-19	10:37:59.59	15484cce-54f4-4acf-a3e9-916586299817	GET	undefined	{req.url}
+2023-09-19	10:37:59.59	6c4bdd00-4298-4081-a2b5-840abe5213f7	GET	undefined	{req.url}
+2023-09-19	10:42:52.52	bcd0219c-1cbc-4858-b44b-83ddc4710012	GET	undefined	/
+2023-09-19	10:42:52.52	096110bf-b15b-40f6-a5e9-d67da1a81a58	GET	undefined	/css/style.css
+2023-09-19	10:45:09.09	f8ab9cfd-3cb7-43bd-804a-6de28b82e3ac	OPTIONS	https://www.google.com	/
+2023-09-19	10:45:09.09	9d1b4052-17e1-4e96-a08e-57956f861c02	GET	https://www.google.com	/
+2023-09-19	10:48:04.04	c3f0b6a8-7190-435b-bc84-33a9df97b8ca	OPTIONS	https://www.google.com	/
+2023-09-19	10:48:04.04	1b902654-8dbf-45da-910f-9874fcd4d7c8	GET	https://www.google.com	/
+2023-09-19	10:58:29.29	12017c3c-6749-4805-833a-2ba2b8381f77	OPTIONS	https://www.google.com	/
+2023-09-19	10:58:29.29	6891fb9d-9433-490f-908d-b419f489cde7	GET	https://www.google.com	/
+2023-09-19	11:02:58.58	39ec8275-06fe-4d51-848c-7ea9bccead7d	GET	undefined	/
+2023-09-19	11:04:18.18	a178bb7e-a730-43f4-80d1-4cf3ffce3b19	GET	undefined	/
+2023-09-19	11:05:16.16	6a5b8ef4-fc96-44e3-935d-d0ec8ae9e72f	GET	undefined	/
+2023-09-19	11:05:16.16	99be1510-c186-48b5-abaf-6f32428e7e1f	GET	undefined	/css/style.css
+2023-09-19	11:13:47.47	e7f3e121-3ee9-48ea-ab56-db91a45cfcd7	GET	undefined	/
+2023-09-19	11:14:51.51	50c096c6-90a5-44e8-b04c-9c4ac6f0f7a2	GET	undefined	/
+2023-09-19	11:14:51.51	109c7a93-7064-4382-addf-454234026e49	GET	undefined	/css/style.css
+2023-09-19	11:16:23.23	e12e7989-e0e4-4701-8140-41fb4026b0e2	GET	undefined	/pif
+2023-09-19	11:16:23.23	ef14da3e-c60e-46da-8c48-66f547146846	GET	undefined	/css/style.css
+2023-09-19	15:04:03.03	3c3e45ab-7a84-4955-b6a4-2bff60b1d358	GET	undefined	/
+2023-09-19	15:04:03.03	af6bc92d-6b51-482b-bf42-08da77056879	GET	undefined	/css/style.css
+2023-09-19	15:04:10.10	5929c5f0-6a6e-4242-90e9-d977beb05bac	GET	undefined	/subdir
+2023-09-19	15:04:10.10	d0fbd14f-0d89-4388-9369-97531905f52f	GET	undefined	/css/style.css
+2023-09-19	15:06:25.25	373ed3a6-893d-4329-a183-418e4935fa2c	GET	undefined	/subdir
+2023-09-19	15:06:43.43	7cc8e54c-b9ca-429a-a503-d79769cf34b8	GET	undefined	/subdir/test
+2023-09-19	15:07:07.07	b0a0b8a3-9bae-4900-bb44-3acf187862ea	GET	undefined	/subdir/test2
+2023-09-19	15:07:07.07	8a4d3bff-0da1-435d-88da-a19c12504369	GET	undefined	/subdir/css/style.css
+2023-09-19	15:08:46.46	44ab9e16-c84a-46d2-bcd9-bfee2e5318f1	GET	undefined	/subdir/test2
+2023-09-19	15:08:46.46	e2e13b5f-795d-4957-9aed-34244c9f87ef	GET	undefined	/subdir/css/style.css
+2023-09-19	16:04:52.52	a4eec494-8015-4c39-86f0-6ad8f8d6c914	GET	undefined	/
+2023-09-19	16:04:52.52	7b759438-395f-4ea0-b610-e3e6eb4e0ea5	GET	undefined	/css/style.css
+2023-09-19	16:05:13.13	6a8fab6d-5a8a-490b-a328-002d33f8f82d	GET	undefined	/new-page
+2023-09-19	16:05:13.13	d3a4cd14-2baa-4b03-935e-ea579423cf56	GET	undefined	/css/style.css
+2023-09-19	16:05:13.13	bc017d2d-aec1-451d-a36e-eab48daf8de8	GET	undefined	/img/img1.jpg
+2023-09-19	16:23:47.47	05d33ce3-1bb1-49a0-a62c-e435fb0aba35	GET	undefined	/employees
+2023-09-19	16:24:40.40	2b2b0aa4-4c1e-4168-b8e1-5eb276eeee58	POST	undefined	/employees
+2023-09-19	16:24:47.47	f79d1fdd-f576-49e5-8620-f771c69c505d	GET	undefined	/employees
+2023-09-19	21:23:18.18	a82d8aac-fff6-44e9-886f-6746300d5452	GET	undefined	/new-page
+2023-09-19	21:23:18.18	d08db2c3-ed88-425c-a3ee-a6962696ab75	GET	undefined	/css/style.css
+2023-09-19	21:23:18.18	ca766385-313f-48c0-ae42-452630c91253	GET	undefined	/img/img1.jpg
+2023-09-19	21:23:21.21	3ed323ec-59d5-4ce7-9cbe-4bd8582dcc94	GET	undefined	/favicon.ico
