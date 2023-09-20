@@ -46,3 +46,7 @@
 2023-09-19	16:23:47.47	05d33ce3-1bb1-49a0-a62c-e435fb0aba35	GET	undefined	/employees
 2023-09-19	16:24:40.40	2b2b0aa4-4c1e-4168-b8e1-5eb276eeee58	POST	undefined	/employees
 2023-09-19	16:24:47.47	f79d1fdd-f576-49e5-8620-f771c69c505d	GET	undefined	/employees
+2023-09-19	21:23:18.18	a82d8aac-fff6-44e9-886f-6746300d5452	GET	undefined	/new-page
+2023-09-19	21:23:18.18	d08db2c3-ed88-425c-a3ee-a6962696ab75	GET	undefined	/css/style.css
+2023-09-19	21:23:18.18	ca766385-313f-48c0-ae42-452630c91253	GET	undefined	/img/img1.jpg
+2023-09-19	21:23:21.21	3ed323ec-59d5-4ce7-9cbe-4bd8582dcc94	GET	undefined	/favicon.ico
