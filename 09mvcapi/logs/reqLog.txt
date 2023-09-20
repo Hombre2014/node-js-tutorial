@@ -50,3 +50,10 @@
 2023-09-19	21:23:18.18	d08db2c3-ed88-425c-a3ee-a6962696ab75	GET	undefined	/css/style.css
 2023-09-19	21:23:18.18	ca766385-313f-48c0-ae42-452630c91253	GET	undefined	/img/img1.jpg
 2023-09-19	21:23:21.21	3ed323ec-59d5-4ce7-9cbe-4bd8582dcc94	GET	undefined	/favicon.ico
+2023-09-20	13:44:13.13	46875f55-b938-46a4-b2f3-2ff73dc9ce29	GET	undefined	/employees
+2023-09-20	13:44:30.30	359c4af8-4e4a-4923-86b2-2c571ac2b912	POST	undefined	/employees
+2023-09-20	13:45:45.45	43656261-5875-4be6-9013-bec295b7c1c3	POST	undefined	/employees
+2023-09-20	15:17:41.41	bd46ba01-22f2-4f1d-9b81-7bd20484f340	GET	undefined	/employees
+2023-09-20	16:44:11.11	72b9f805-be81-4dd5-8c1c-1749e49b1512	PUT	undefined	/employees
+2023-09-20	16:45:35.35	661ba368-acc9-4006-888a-a177d4bf61d0	DELETE	undefined	/employees
+2023-09-20	16:46:00.00	d225de5e-5010-4df8-82b8-a7acb71b3978	GET	undefined	/employees/1
