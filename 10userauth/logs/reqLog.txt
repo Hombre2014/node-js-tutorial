@@ -57,3 +57,9 @@
 2023-09-20	16:44:11.11	72b9f805-be81-4dd5-8c1c-1749e49b1512	PUT	undefined	/employees
 2023-09-20	16:45:35.35	661ba368-acc9-4006-888a-a177d4bf61d0	DELETE	undefined	/employees
 2023-09-20	16:46:00.00	d225de5e-5010-4df8-82b8-a7acb71b3978	GET	undefined	/employees/1
+2023-09-20	17:43:12.12	24884cdd-13a6-48bd-a21a-131646b37f1f	POST	undefined	/register
+2023-09-20	17:45:20.20	3e36fe76-227a-4c3c-a726-b0bc664bfd2f	POST	undefined	/register
+2023-09-20	17:59:14.14	67000c2f-3955-4c58-82f3-923b29c503c6	POST	undefined	/register
+2023-09-20	17:59:34.34	55316251-82de-40b6-8b28-b00dff3e3f7a	POST	undefined	/auth
+2023-09-20	19:49:37.37	ecaa8d56-fcd7-49c2-8229-eaf53acbb682	POST	undefined	/auth
+2023-09-20	19:49:45.45	5e761d18-16c0-40c1-b128-f86a232fcd82	POST	undefined	/register
