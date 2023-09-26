@@ -103,3 +103,10 @@
 2023-09-21	14:51:06.06	9cab5748-5b54-4440-89c8-a43dfd70e2b4	POST	undefined	/auth
 2023-09-21	14:51:09.09	9b556986-41f6-4210-afb9-e73bc04b1203	GET	undefined	/refresh
 2023-09-21	14:51:12.12	63a90a3f-bdcd-4882-af14-9315a33727f3	GET	undefined	/refresh
+2023-09-26	21:39:31.31	55c283e2-e276-4466-8801-2de22496061d	GET	undefined	/
+2023-09-26	21:39:31.31	8000cd15-ac34-4723-8cec-d00f05981ec2	GET	undefined	/css/style.css
+2023-09-26	21:39:33.33	ee75053e-6f0f-4aec-9270-3f242c546e51	GET	undefined	/favicon.ico
+2023-09-26	21:41:36.36	91dd144f-36ce-4b9f-a5ef-77eafd7af406	POST	undefined	/auth
+2023-09-26	21:42:48.48	7fa9f1f1-ba70-4058-989b-de9b15bc74cc	GET	undefined	/logout
+2023-09-26	21:43:28.28	43972769-22f8-413d-926a-7005ad611ccd	GET	undefined	/refresh
+2023-09-26	21:46:00.00	54fd468c-82fc-455c-9e02-9ede4fd89ee0	POST	undefined	/auth

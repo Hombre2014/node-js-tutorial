@@ -28,7 +28,7 @@ const handleLogout = async (req, res) => {
     JSON.stringify(usersDB.users)
   );
 
-  res.clearCookie('jwt', { httpOnly: true, maxAge: 24 * 60 * 60 * 1000 }); // secure: true, serves only https. SameSite: 'None' serves cross-site requests
+  res.clearCookie('jwt', { httpOnly: true, sameSite: 'None', secure: true }); // SameSite: 'None' serves cross-site requests
   res.sendStatus(204);
 }
 
