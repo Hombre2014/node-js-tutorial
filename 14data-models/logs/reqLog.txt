@@ -129,3 +129,5 @@
 2023-09-27	11:25:51.51	3c714503-ff36-407a-bb14-3c91c50661b4	POST	undefined	/auth
 2023-09-27	11:25:58.58	81686d8e-0826-4151-b239-0f33a1256c87	POST	undefined	/employees
 2023-09-27	11:26:04.04	004453e9-ee6f-4a57-bdfe-dd07591a479a	DELETE	undefined	/employees
+2023-09-27	14:52:58.58	d29f4a0a-6966-4e03-841a-2842bd9b6bdc	POST	undefined	/register
+2023-09-27	14:53:47.47	ffdbbe89-a422-49c7-b911-a36b3690eb5e	POST	undefined	/register
