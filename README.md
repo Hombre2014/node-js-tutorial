@@ -8,17 +8,16 @@
 - Frameworks: Express.js, Node.js
 - Database used: MongoDB
 
-## Live Demo
+## Deploy by clicking the button below
 
-- [Live demo link]()
-
-### Install
-
-- [Node](https://nodejs.org/en/download/)
+[![Remix on Glitch](https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Hombre2014/node-js-tutorial.git)
 
 ### Usage
 
 - Clone the repository using `git clone https://github.com/Hombre2014/node-js-tutorial.git`
+- Switch to the project's directory using `cd node-js-tutorial`
+- Execute `npm install` to install all the dependencies
+- Start the server using `npm run dev`
 
 ## Authors
 
